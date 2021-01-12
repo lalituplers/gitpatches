@@ -7,6 +7,7 @@
 <p>Hello Lalit</p>
 <p>today i'm learn patches in git</p>
 <p>patch 1</p>
+<p>patch 2</p>
 
 </body>
 </html>

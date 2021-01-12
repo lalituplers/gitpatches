@@ -8,6 +8,7 @@
 <p>today i'm learn patches in git</p>
 <p>patch 1</p>
 <p>patch 2</p>
+<p>patch 3</p>
 
 </body>
 </html>
